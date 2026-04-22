@@ -2,8 +2,6 @@
 
 **Yousra Farrukh**  
 BSc Artificial Intelligence, COMSATS University Islamabad  
-KAUST VSRP Application — Prof. Peter Richtarik's 
-
 ---
 
 ## What I Built
